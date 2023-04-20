@@ -1,4 +1,4 @@
-### 👋 Greetings everyone on my profile page! I am a web developer 🐯
+### 👋 Greetings everyone on my profile page! 🐯
 
 👨‍💻 I am a web developer and I create high-quality websites that help people solve their tasks. 
 
