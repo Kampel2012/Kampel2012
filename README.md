@@ -12,6 +12,9 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kampel2012&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Kampel2012/Kampel2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
