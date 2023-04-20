@@ -5,7 +5,7 @@
 - 🌐 On this page, you can see my projects and portfolio.
 - 👀 Here you will find interesting and unique websites that I have developed. 👇
 
-https://img.shields.io/github/commit-activity/m/Kampel2012/mesto-react?style=flat-square
+
 
 <!--
 **Kampel2012/Kampel2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
