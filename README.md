@@ -12,6 +12,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kampel2012&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
