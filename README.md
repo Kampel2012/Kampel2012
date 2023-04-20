@@ -1,10 +1,8 @@
 ### 👋 Greetings everyone on my profile page! 🐯
 
-👨‍💻 I am a web developer and I create high-quality websites that help people solve their tasks. 
-
-🌐 On this page, you can see my projects and portfolio.
-
-👀 Here you will find interesting and unique websites that I have developed. 👇
+- 👨‍💻 I am a web developer and I create high-quality websites that help people solve their tasks. 
+- 🌐 On this page, you can see my projects and portfolio.
+- 👀 Here you will find interesting and unique websites that I have developed. 👇
 
 
 <!--
