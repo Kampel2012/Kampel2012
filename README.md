@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Greetings everyone on my profile page! I am a web developer 🐯
+
+👨‍💻 I am a web developer and I create high-quality websites that help people solve their tasks. 
+
+🌐 On this page, you can see my projects and portfolio.
+
+👀 Here you will find interesting and unique websites that I have developed. 👇
+
 
 <!--
 **Kampel2012/Kampel2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
