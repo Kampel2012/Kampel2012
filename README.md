@@ -14,10 +14,16 @@
 
 [![codewars](https://www.codewars.com/users/Kampel2012/badges/large)](https://www.codewars.com/users/Kampel2012)   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kampel2012&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kampel2012&show_icons=true&theme=radical)
+
+
 
 <!--
 **Kampel2012/Kampel2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kampel2012&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
