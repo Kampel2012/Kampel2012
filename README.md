@@ -1,7 +1,7 @@
 ### 👋 Greetings everyone on my profile page! 🐯
 
 - 👨‍💻 I want to create high-quality websites that help people solve their tasks.
-- ⚡ For these tasks I am looking for team 🧠
+- ⚡ I am looking for a strong and friendly team for these tasks 🧠
 - 🌐 On this page, you can see my projects and portfolio.
 - 👀 Here you will find interesting and unique websites that I have developed. 👇
 
