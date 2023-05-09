@@ -13,7 +13,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### My stats
-[![codewars](https://www.codewars.com/users/Kampel2012/badges/large)](https://www.codewars.com/users/Kampel2012)   
+[![codewars](https://www.codewars.com/users/Anton_Glazunov/badges/large)](https://www.codewars.com/users/Anton_Glazunov)   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kampel2012&show_icons=true&theme=radical) 
 
 
