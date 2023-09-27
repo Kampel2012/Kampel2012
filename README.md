@@ -19,7 +19,6 @@
 [![codewars](https://www.codewars.com/users/Anton_Glazunov/badges/large)](https://www.codewars.com/users/Anton_Glazunov)   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kampel2012&show_icons=true&theme=radical) 
 
-
 ![](https://komarev.com/ghpvc/?username=your-github-Kampel2012)
 
 <!--
