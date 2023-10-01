@@ -3,7 +3,7 @@
 - 👨‍💻 I want to create high-quality websites that help people solve their tasks.
 - ⚡ I am looking for a strong and friendly team for these tasks 🧠
 - 🌐 On this page, you can see my projects and portfolio.
-- 👀 Here you will find interesting and unique websites that I have developed. 👇
+- 👀 Here you will find interesting and unique websites that I have developed 👇
 
 ### My technology stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
